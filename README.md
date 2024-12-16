@@ -56,7 +56,7 @@ The analysis includes:
    - Filtering and cleaning the dataset, including outlier removal and coding categorical variables.
 
 2. **Statistical Analysis**: 
-   - T-tests comparing reaction times for correct vs. incorrect responses and between SPR configurations.
+   - T-tests comparing reaction times between SPR configurations.
    - Analysis of response biases (e.g., frequency of "cat" vs. "dog" responses).
 
 3. **Model Construction**: 
@@ -69,7 +69,7 @@ The analysis includes:
 
 ## Results
 
-The analysis evaluates the influence of subliminal priming on decision-making parameters (drift rate, decision threshold, and starting point) and provides statistical and visual insights into the data.
+The analysis evaluates the influence of subliminal priming on decision-making parameters (drift rate, decision threshold, and starting point) and provides statistical and visual insights into the data. The findings support Hypothesis 1. Hypothesis 2 is not rejected, but more research is needed. 
 
 ## How to Cite
 
